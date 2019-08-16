@@ -13,6 +13,3 @@ dependencies:
 - name: jx-go
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
-- name: jx-testbeforedemo
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
